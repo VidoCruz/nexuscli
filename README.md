@@ -1,0 +1,2 @@
+# nexuscli
+Nexus test net 
